@@ -1,0 +1,3 @@
+genius_client_id = "s_SasP61YgtyHx4YHI4U4F1icB2H4fZYQkrvfqXEJq8lo50GJhJQ-FXkGpF5NfDn"
+genius_client_secret = "K3pYxNEcUePep7QLi9k1peYnNry49rjYxPkzjHWuBugvgmRkwyvJ_3ASghKfiZjabVHgfrC6T3sMfma84Belgg"
+genius_client_access_token = "jBmnPj48M0-CfNT4Jr1kb1iMYiqRdxHVNJPmTPisIAN9gpKRIYPlB_BTN50GCOZJ"
